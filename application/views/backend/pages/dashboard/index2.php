@@ -26,7 +26,7 @@
         </div>
 
         <!-- Navbar -->
-        <?php $this->load->view('backend/includes/navbar') ?>
+        <?php $this->load->view('backend/includes/navbardashboardv2') ?>
         <!-- /.navbar -->
 
         <!-- Main Sidebar Container -->
