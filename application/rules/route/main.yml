@@ -1,0 +1,16 @@
+welcome:
+  home:
+    path: "/aaa-home/aaa.welcome.php"
+    actor: { "guest" }
+    transfer: "plain"
+
+login:
+  path: "/aaa-home/aab.login.php"
+  actor: { "guest" }
+  transfer: "plain"
+
+qcgen:
+  path: "/aab-internal/aaa.codegen.php"
+  actor: { "guest" }
+  transfer: "plain"
+
